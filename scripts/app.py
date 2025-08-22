@@ -5,10 +5,13 @@ import rag_full_system
 import ft_system
 import os
 import time
+import preprocessing
 
 # =================================================================================================
 # Load components and caching
 # =================================================================================================
+preprocessing.initialize()  # Ensure preprocessing is done before loading components
+
 
 @st.cache_resource
 def load_rag_components():

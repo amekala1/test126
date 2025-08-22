@@ -1,0 +1,210 @@
+
+1.  Q: What were Apple Inc.'s total net sales for the fiscal year ended September 28, 2024?
+    A: Total net sales were $391,035 million.
+
+2.  Q: What was Apple Inc.'s net income for fiscal year 2024?
+    A: Net income was $93,736 million.
+
+3.  Q: What was Apple Inc.'s gross margin in fiscal year 2024?
+    A: The gross margin was $180,683 million.
+
+4.  Q: How much revenue did Apple Inc. generate from product sales in fiscal year 2024?
+    A: Products net sales were $294,866 million.
+
+5.  Q: What were Apple Inc.'s services net sales for fiscal year 2024?
+    A: Services net sales were $96,169 million.
+
+6.  Q: What was Apple Inc.'s Research and Development (R&D) expense in fiscal year 2024?
+    A: R&D expense was $31,370 million.
+
+7.  Q: What were Apple Inc.'s selling, general and administrative expenses in fiscal year 2024?
+    A: Selling, general and administrative expenses were $26,097 million.
+
+8.  Q: What was Apple Inc.'s total operating income in fiscal year 2024?
+    A: Operating income was $123,216 million.
+
+9.  Q: What was the provision for income taxes for Apple Inc. in fiscal year 2024?
+    A: The provision for income taxes was $29,749 million.
+
+10. Q: What was Apple Inc.'s total cash and cash equivalents at the end of fiscal year 2024?
+    A: Cash and cash equivalents totaled $29,943 million.
+
+11. Q: What was Apple Inc.'s total current assets at the end of fiscal year 2024?
+    A: Total current assets were $152,987 million.
+
+12. Q: What was Apple Inc.'s total liabilities at the end of fiscal year 2024?
+    A: Total liabilities were $308,030 million.
+
+13. Q: What was Apple Inc.'s total shareholders' equity at the end of fiscal year 2024?
+    A: Total shareholders' equity was $56,950 million.
+
+14. Q: How much common stock did Apple Inc. repurchase in fiscal year 2024?
+    A: Apple repurchased $95.0 billion of its common stock.
+
+15. Q: What amount of dividends and dividend equivalents did Apple Inc. pay in fiscal year 2024?
+    A: Total dividends and dividend equivalents paid were $15.2 billion.
+
+16. Q: What was Apple Inc.'s quarterly cash dividend rate beginning in May 2024?
+    A: The quarterly cash dividend was raised to $0.25 per share.
+
+17. Q: What was the aggregate principal amount of Apple Inc.'s outstanding fixed-rate notes as of September 28, 2024?
+    A: The aggregate principal amount of fixed-rate notes outstanding was $97.3 billion.
+
+18. Q: How much commercial paper did Apple Inc. have outstanding as of September 28, 2024?
+    A: Apple Inc. had $10.0 billion of commercial paper outstanding.
+
+19. Q: What was the approximate market value of Apple Inc.'s voting and non-voting stock held by non-affiliates as of March 29, 2024?
+    A: The market value was approximately $2,628,553,000,000.
+
+20. Q: What percentage of total net sales did Apple Inc. make through its direct distribution channels in 2024?
+    A: 38% of total net sales were through direct channels.
+
+21. Q: What percentage of total net sales did Apple Inc. make through its indirect distribution channels in 2024?
+    A: 62% of total net sales were through indirect channels.
+
+22. Q: What was the total deferred revenue classified as current liabilities for Apple Inc. as of September 28, 2024?
+    A: Current deferred revenue was $8,249 million.
+
+23. Q: What was Apple Inc.'s effective tax rate for fiscal year 2024?
+    A: The effective tax rate for 2024 was 24.1%.
+
+24. Q: What were Apple Inc.'s total net sales for the fiscal year ended September 30, 2023?
+    A: Total net sales were $383,285 million.
+
+25. Q: What was Apple Inc.'s net income for fiscal year 2023?
+    A: Net income was $96,995 million.
+
+26. Q: What was Apple Inc.'s gross margin in fiscal year 2023?
+    A: The gross margin was $169,148 million.
+
+27. Q: What was Apple Inc.'s Research and Development (R&D) expense in fiscal year 2023?
+    A: R&D expense was $29,915 million.
+
+28. Q: What was Apple Inc.'s total cash and cash equivalents at the end of fiscal year 2023?
+    A: Cash and cash equivalents totaled $30,737 million.
+
+29. Q: How much common stock did Apple Inc. repurchase in fiscal year 2023?
+    A: Apple repurchased $76.6 billion of its common stock, excluding excise tax.
+
+30. Q: What amount of dividends and dividend equivalents did Apple Inc. pay in fiscal year 2023?
+    A: Total dividends and dividend equivalents paid were $14.996 billion.
+
+31. Q: What was the aggregate principal amount of Apple Inc.'s outstanding fixed-rate notes as of September 30, 2023?
+    A: The aggregate principal amount of fixed-rate notes outstanding was $106.6 billion.
+
+32. Q: How much commercial paper did Apple Inc. have outstanding as of September 30, 2023?
+    A: Apple Inc. had $6.0 billion of commercial paper outstanding.
+
+33. Q: What was the approximate market value of Apple Inc.'s voting and non-voting stock held by non-affiliates as of March 31, 2023?
+    A: The market value was approximately $2,591,165,000,000.
+
+34. Q: What was the total deferred revenue for Apple Inc. as of September 30, 2023?
+    A: Total deferred revenue was $12.1 billion.
+
+35. Q: What percentage of Apple Inc.'s deferred revenue in 2023 was expected to be realized in less than a year?
+    A: 67% of total deferred revenue was expected to be realized in less than a year.
+
+36. Q: What was Apple Inc.'s effective tax rate for fiscal year 2023?
+    A: The effective tax rate for 2023 was 14.7%.
+
+37. Q: How many weeks did Apple Inc.'s fiscal year 2024 span?
+    A: Fiscal year 2024 spanned 52 weeks.
+
+38. Q: How many weeks did Apple Inc.'s fiscal year 2023 span?
+    A: Fiscal year 2023 spanned 53 weeks.
+
+39. Q: What is a key characteristic of competition in Apple Inc.'s markets impacting its financial performance?
+    A: Markets are characterized by aggressive price competition and resulting downward pressure on gross margins.
+
+40. Q: What financial risk does Apple Inc. face due to its reliance on single or limited sources for certain components?
+    A: The Company is subject to significant supply and pricing risks.
+
+41. Q: How does Apple Inc. manage interest rate risk affecting its financial statements?
+    A: The Company may use derivative instruments, offset interest rate-sensitive assets and liabilities, or control portfolio duration.
+
+42. Q: What was the primary reason for the increase in Apple Inc.'s R&D expense in 2024 compared to 2023?
+    A: The increase was primarily due to increases in headcount-related expenses.
+
+43. Q: What financial risk is associated with Apple Inc.'s practice of ordering components and building inventory in advance of product announcements?
+    A: There is a risk of incorrect forecasting, leading to excess or insufficient components or products.
+
+44. Q: What common legal financial claims does Apple Inc. face regarding its cellular-enabled products?
+    A: The Company frequently faces patent claims, often seeking substantial damages.
+
+45. Q: How can unfavorable results from legal proceedings or government investigations financially impact Apple Inc.?
+    A: They can materially adversely affect the Company's business, results of operations, financial condition, and stock price, potentially leading to penalties, fines, or judgments.
+
+46. Q: For what purpose does Apple Inc. collect and process personal data from participants in its stock plans?
+    A: Data is collected for managing and administering the Plan.
+
+47. Q: What new accounting standard related to income tax disclosures will Apple Inc. adopt in fiscal year 2026?
+    A: Apple Inc. will adopt ASU No. 2023-09, Income Taxes (Topic 740).
+
+48. Q: What new accounting standard related to segment reporting disclosures will Apple Inc. adopt in fiscal year 2025?
+    A: Apple Inc. will adopt ASU No. 2023-07, Segment Reporting (Topic 280).
+
+49. Q: Who has overall responsibility for identifying, assessing, and managing cybersecurity threats at Apple Inc.?
+    A: The Company's management, led by its Head of Corporate Information Security.
+
+50. Q: What is the primary objective of Apple Inc.'s Rule 10D-1 Recovery Policy for Incentive-Based Compensation?
+    A: To comply with Nasdaq Listing Rule 5608 by recovering erroneously awarded Incentive-Based Compensation from executive officers.
+
+51.  Q: What was the fair value of Apple Inc.'s total marketable securities as of September 28, 2024?
+    A: The fair value was $156,650 million.
+
+52.  Q: What was the fair value of Apple Inc.'s total marketable securities as of September 30, 2023?
+    A: The fair value was $162,099 million.
+
+53.  Q: What percentage of Apple Inc.'s total deferred revenue as of September 28, 2024, is expected to be realized within one-to-two years?
+    A: 25% of total deferred revenue is expected within one-to-two years.
+
+54.  Q: What was the weighted-average remaining lease term for Apple Inc.'s lease liabilities as of September 28, 2024?
+    A: The weighted-average remaining lease term was 10.3 years.
+
+55.  Q: What was the aggregate market value of Apple Inc.'s voting and non-voting stock held by non-affiliates as of March 29, 2024?
+    A: Approximately $2,628,553,000,000.
+
+56.  Q: What was Apple Inc.'s total current liabilities at the end of fiscal year 2024?
+    A: Total current liabilities were $176,392 million.
+
+57.  Q: What was Apple Inc.'s total non-current liabilities at the end of fiscal year 2024?
+    A: Total non-current liabilities were $131,638 million.
+
+58.  Q: How much did Apple Inc. spend on payments for acquisition of property, plant and equipment in fiscal year 2024?
+    A: $9,447 million.
+
+59.  Q: What was the total amount of gross unrecognized tax benefits for Apple Inc. as of September 28, 2024?
+    A: The total was $22.0 billion.
+
+60. Q: What was the aggregate principal amount of Apple Inc.'s fixed-rate notes payable within 12 months as of September 28, 2024?
+    A: $10.9 billion.
+
+61. Q: What was the total balance of the escrow related to the State Aid Decision as of September 28, 2024, including net unrealized investment gains?
+    A: The total balance was €14.2 billion or $15.8 billion.
+
+62. Q: How many shares of common stock were issued and outstanding for Apple Inc. as of October 18, 2024?
+    A: 15,115,823,000 shares.
+
+63. Q: What was the total number of shares of common stock repurchased by Apple Inc. during fiscal year 2024?
+    A: 499 million shares.
+
+64. Q: What was the purpose of the Apple Inc. 2022 Employee Stock Plan?
+    A: It provides for broad-based equity grants to employees, including executive officers, and permits various award types like RSUs and stock options.
+
+65. Q: What risk is associated with competition in Apple Inc.'s markets regarding product pricing?
+    A: Markets are characterized by aggressive price competition and resulting downward pressure on gross margins.
+
+66. Q: What financial impact can adverse macroeconomic conditions, such as inflation and higher interest rates, have on Apple Inc.'s operations?
+    A: They can adversely impact consumer confidence and spending, leading to lower demand for products and services, and affect the Company's suppliers, credit risk, and fair values of financial instruments.
+
+67. Q: How does Apple Inc. generally recognize revenue for third-party applications sold through its App Store?
+    A: On a net basis, recognizing only the commission it retains.
+
+68. Q: What is the primary method used by Apple Inc. for tax withholding obligations related to restricted stock units (RSUs) for officers subject to Section 16 of the Exchange Act?
+    A: By withholding Shares otherwise deliverable or an amount otherwise payable upon settlement of Dividend Equivalent Rights.
+
+69. Q: What is the name of the independent auditor that provided an unqualified opinion on Apple Inc.'s consolidated financial statements for the period ended September 28, 2024?
+    A: Ernst & Young LLP.
+
+70. Q: What is Apple Inc.'s "Rule 10D-1 Recovery Policy" intended to comply with?
+    A: Nasdaq Listing Rule 5608 to implement Rule 10D-1 under the Exchange Act.

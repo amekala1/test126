@@ -1,0 +1,12 @@
+langchain
+langchain_core
+python-dotenv
+streamlit
+faiss-cpu
+sentence_transformers
+PyMuPDF
+numpy
+torch
+rank_bm25
+datasets
+transformers[torch]
